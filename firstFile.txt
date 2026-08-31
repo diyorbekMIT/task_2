@@ -1,5 +1,5 @@
-one - 1
-two - 2
+bir one - 1
+ikki - two - 2
 three - 3
 four - 4
 5
